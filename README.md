@@ -1,16 +1,19 @@
 ## Hi there 👋
+# 👋 Halo, Saya [Desta354]!
+Saya adalah siswa SMK Syafa’atul Ummah jurusan **Rekayasa Perangkat Lunak (RPL)**.  
+Saya suka belajar tentang pemrograman web, aplikasi, dan teknologi masa depan.
 
-<!--
-**Desta354/Desta354** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💡 Minat Saya
+- Pengembangan Web (HTML, CSS, JavaScript)
+- Pemrograman Backend (PHP, Laravel)
+- Database dan API
+- Cloud Computing
 
-Here are some ideas to get you started:
+## 🎯 Tujuan Saya
+Menjadi developer yang bermanfaat dan berkontribusi untuk masyarakat melalui teknologi.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Hubungi Saya
+- 📧 Email: [tugasoyoy36]
+- 🚀 Media Sosial: [kenzzyyy6]
+- 💻 GitHub: [https://github.com/Desta354](https://github.com/Desta354)
+
