@@ -13,7 +13,7 @@ Saya suka belajar tentang pemrograman web, aplikasi, dan teknologi masa depan.
 Menjadi developer yang bermanfaat dan berkontribusi untuk masyarakat melalui teknologi.
 
 ## 🌐 Hubungi Saya
-- 📧 Email: [tugasoyoy36]
-- 🚀 Media Sosial: [kenzzyyy6]
+- 📧 Email: [tugasoyoy36@gmail.com]
+- 🚀 Media Sosial: [kenzzyyy6@gmail.com]
 - 💻 GitHub: [https://github.com/Desta354](https://github.com/Desta354)
 
